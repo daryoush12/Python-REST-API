@@ -1,0 +1,5 @@
+{
+    "log_path": "logs/spam.log",
+    "mongo_uri": "mongodb+srv://base-user:5XAYjBE2pl1SccS5@moviesdb-bofsb.mongodb.net/test?retryWrites=true&w=majority",
+    "amount_of_games": 0
+}
